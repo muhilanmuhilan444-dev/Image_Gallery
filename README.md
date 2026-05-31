@@ -155,7 +155,8 @@ img2.addEventListener("mouseout",()=>
 
 ## OUTPUT
 
-![alt text](<myapp/static/Screenshot 2026-05-31 220358.png>)
+<img width="1912" height="944" alt="Screenshot 2026-05-31 220358" src="https://github.com/user-attachments/assets/77137b95-0294-4b24-bdd7-2a989fe333dc" />
+
 
 
 
